@@ -1,0 +1,6 @@
+Audi,A4,Sedan,2018,30000
+BMW,X5,Sedan,2019,40000
+Lada,Priora,Sedan,2017,20000
+Honda,Accord,Hatchback,1998,200000
+Mercedes,Benz,Sedan,2020,35000
+Lada,Granta,Hatchback,1999,20000
